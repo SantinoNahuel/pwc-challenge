@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Base de datos (No se sube la DB local con datos de prueba)
+*.db
+*.sqlite3
+
+# IDEs
+.vscode/
+.idea/
+
+# Excel temporales
+~$*.xlsx
