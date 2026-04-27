@@ -1,6 +1,6 @@
 # Desafío Técnico - PwC (Low Code Developer)
 
-Este repositorio contiene la solución al desafío técnico de importación y gestión (ABM) de clientes. La API está desarrollada en Python utilizando FastAPI y SQLite como base de datos. Se utilizan Testing para probar la API. Se utilizan Pydantic para validar los datos y SQLAlchemy para la base de datos. Y se utilizan de herramientas Agentes de IA como Antigravity para ayudar al desarrollo y Testing.
+Este repositorio contiene la solución al desafío técnico de importación y gestión (ABM) de clientes. La API está desarrollada en Python utilizando FastAPI y SQLite como base de datos. Se utilizan Testing para probar la API. Pydantic para validar los datos y SQLAlchemy para la base de datos. Y se utilizan de herramientas Agentes de IA como Antigravity para ayudar al desarrollo y Testing.
 
 ## Requisitos Previos
 - Python 3.10 o superior instalado.
